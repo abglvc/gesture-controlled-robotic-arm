@@ -5,6 +5,8 @@
 
 ![gif0](https://im4.ezgif.com/tmp/ezgif-4-50e578ea51b9.gif)<br/>
 ![imgur0](https://imgur.com/54OCXFw.png)<br/>
-<center>Glove circuit</center>
+<p align="justify">
+  Glove circuit
+</p>
 ![imgur1](https://imgur.com/usqyNZx.png)<br/>
 Robotic arm circuit (try additional supply for arduino if motors keeps reseting it)
