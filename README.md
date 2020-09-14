@@ -2,4 +2,4 @@
 
 Gesture controlled robotic arm via bluetooth connection.
 
-![20200914_142216_1.gif](https://s1.gifyu.com/images/20200914_142216_1.gif)
+![](https://im4.ezgif.com/tmp/ezgif-4-50e578ea51b9.gif)
