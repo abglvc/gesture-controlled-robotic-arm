@@ -13,7 +13,9 @@
 + 2x switch (for power supply)
 + 1x 3d printed robot arm parts (https://www.instructables.com/id/EEZYbotARM/)
 
-![gif0](https://im4.ezgif.com/tmp/ezgif-4-50e578ea51b9.gif)<br/>
+![gif0](https://im6.ezgif.com/tmp/ezgif-6-2beb8a4a207f.gif)
+![gif1](https://im4.ezgif.com/tmp/ezgif-4-50e578ea51b9.gif)
+
 ### Glove circuit:
 ![imgur0](https://imgur.com/54OCXFw.png)<br/>
 ### Robot arm circuit:
