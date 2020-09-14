@@ -1,5 +1,5 @@
 # gesture-controlled-robotic-arm
-
+Youtube video: https://www.youtube.com/watch?v=5m0KJDqNXgc
 ## Gesture controlled robotic arm via bluetooth connection.<br/>
 ### You will need:
 + 2x MPU6050 (accelerometer+gyroscope) sensors
