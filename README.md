@@ -11,7 +11,7 @@
 + 1x SG90 servo motor (for gripper)
 + 1x push button
 + 2x switch (for power supply)
-+ 1x 3d printed robot arm parts (https://www.instructables.com/id/EEZYbotARM/)
++ 1x 3d printed robot arm parts (EEZYbotARM)
 
 ### Preview
 ![gif0](https://im6.ezgif.com/tmp/ezgif-6-2beb8a4a207f.gif)
